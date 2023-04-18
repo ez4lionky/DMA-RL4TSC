@@ -1,0 +1,11 @@
+{       
+	"interval": 1.0,
+	"seed": 1,
+	"dir": "./envs/jinan_3_4/jinan/",
+	"roadnetFile": "roadnet.json",
+	"flowFile": "flow.json",
+	"rlTrafficLight": true,
+	"saveReplay": true,
+	"roadnetLogFile": "roadnetlog.json",
+	"replayLogFile": "replay.txt"
+}

@@ -1,0 +1,4 @@
+# This program does not use wandb by default.
+
+training command:
+$ nohup python3 run_new_dqn_ma_rnn.py --other_params  something_helpful_for_identifying  >& GAT_RNN_map_nbrs_ma.out &

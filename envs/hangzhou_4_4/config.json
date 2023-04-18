@@ -1,0 +1,11 @@
+{
+	"interval": 1.0,
+	"seed": 1,
+	"dir": "envs/hangzhou_4_4/",
+	"roadnetFile": "roadnet_4_4.json",
+	"flowFile": "anon_4_4_hangzhou_real.json",
+	"rlTrafficLight": true,
+	"saveReplay": true,
+	"roadnetLogFile": "roadnetlog.json",
+	"replayLogFile": "replay.txt"
+}

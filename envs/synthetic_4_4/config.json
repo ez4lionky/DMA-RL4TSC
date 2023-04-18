@@ -1,0 +1,11 @@
+{
+	"interval": 1.0,
+	"seed": 1,
+	"dir": "envs/synthetic_4_4/",
+	"roadnetFile": "roadnet_4_4_turn.json",
+	"flowFile": "flow_4_4_turn.json",
+	"rlTrafficLight": true,
+	"saveReplay": true,
+	"roadnetLogFile": "roadnetlog.json",
+	"replayLogFile": "replay.txt"
+}
